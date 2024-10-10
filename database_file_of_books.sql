@@ -67,7 +67,6 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`u_id`, `u_name`, `u_email`, `passd`) VALUES
 (10, 'kamlesh', 'kumavatk77@gmail.com', '2022'),
 (12, 'root', 'abc@gmail.comm', '2022'),
-(13, 'mahima', 'mahima135@gamil.com', '2022'),
 (15, 'vidit', 'abc135@gmail.com', '2022');
 
 --
